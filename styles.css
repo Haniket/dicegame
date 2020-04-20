@@ -1,0 +1,68 @@
+body{
+  background-image: url(dice.png);
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 780px;
+  color: #9c5518;
+
+
+}
+img{
+  margin: 15% auto 15% auto;
+}
+
+
+h1{
+  font-family: Monoton, cursive;
+  font-size: 7rem;
+  padding:8% 10% 2% 10%;
+}
+h3
+{
+  font-family: 'Carter One', cursive;
+  font-size: 3.1rem;
+padding: 1% 5% 5% 10%;
+margin-bottom: 0px;
+}
+h4
+{
+  font-size: 2.4rem;
+  color:#204051;
+  font-family: 'Orbitron', sans-serif;
+  font-weight: 900;
+  padding-top: 15%
+
+}
+
+.top-container{
+  background-color: #4d4c7d;
+  text-align: center;
+opacity: 0.8;
+
+}
+.top-container:hover {
+  opacity: 0.91;
+}
+.middle-container
+{
+  background-color: #827397;
+    text-align: center;
+    opacity: 0.8;
+
+}
+.middle-container:hover
+{
+  opacity: 0.91
+}
+.bottom-container
+{
+  background-color: #d8b9c3;
+  padding: 3% 10% 2% 10%;
+  text-align: center;
+  font-family: 'Sawarabi Mincho', sans-serif;
+
+
+}
+.fa-2x{
+  padding: 10px 20px 30px 10px;
+}
